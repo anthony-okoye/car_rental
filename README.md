@@ -4,7 +4,7 @@ This is a car rental project developed for the graduation Project. It is built u
 
 ## Live website:
 
-- check live website [here](https://realrentcar.galdi.dev/)
+- check live website [here](https://realrentcar.anthony.dev/)
 
 ## Features
 
